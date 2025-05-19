@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-I'm a 4th-year student in Cybersecurity passionate about Offensive Security (Red Team) and have interest in OSINT investigation.
+I'm a 4th-year student in Cybersecurity passionate about Offensive Security (Red Team) and have interest Defensive Security (Blue team).
 
 Every weekend, you'll find me solving CTF challenges. I'm always eager to learn, improve my skills, and explore the world of hacking.
 
