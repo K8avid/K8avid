@@ -1,4 +1,10 @@
-<img width="680" alt="groot" src="https://github.com/user-attachments/assets/8c06f635-8ca9-4536-9764-550cf653a5b2" /> 
+<div style="text-align: center;">
+  <img width="680" alt="groot" src="https://github.com/K8avid/K8avid/blob/main/groot2.png" />
+</div>
+
+
+
+
 
 ## Hi there 👋
 
