@@ -1,3 +1,5 @@
+<img width="680" alt="groot" src="https://github.com/user-attachments/assets/8c06f635-8ca9-4536-9764-550cf653a5b2" /> 
+
 ## Hi there 👋
 
 I'm a 4th-year student in Cybersecurity passionate about Offensive Security (Red Team) and have interest in OSINT investigation.
