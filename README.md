@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a 4th-year student in Cybersecurity passionate about Offensive Security (Red Team) and have interest in OSINT investigation.
+
+Every weekend, you'll find me solving CTF challenges. I'm always eager to learn, improve my skills, and explore the world of hacking.
+
+Feel free to connect or check out my projects!
+
 <!--
 **K8avid/K8avid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
