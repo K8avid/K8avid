@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-I'm a 4th-year student in Cybersecurity passionate about Offensive Security (Red Team) and have great interest in Defensive Security (Blue team).
+I'm a 4th-year student in Cybersecurity passionate about Offensive Security (Red Team) and Defensive Security (Blue team).
 
 Every weekend, you'll find me solving CTF challenges. I'm always eager to learn, improve my skills, and explore the world of hacking.
 
